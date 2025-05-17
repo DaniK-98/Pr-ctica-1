@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './diseno.css'
+import './App.css'
 
 function App() {
     // Estado para almacenar el texto del usuario
